@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "*.html.erb": "erb"
+    },
+    "emmet.includeLanguages": {
+        "html.erb": "erb",
+        "erb": "html"
+    },
+    "tailwindCSS.classAttributes": [
+        "class",
+        "className",
+        "ngClass",
+        "class: \""
+    ]
+}
